@@ -3,7 +3,7 @@ TODO: Student to complete code and comments in the sections below.
 
 # Prework
 - Able to access lab machines by browser:
-
+Yes!
 - Git version:
 
 - SSH version:
